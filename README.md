@@ -1,8 +1,7 @@
 ---
-title: Claims Wordmap
-sdk: static
-app_build_command: npm run build
-app_file: dist/index.html
+title: ClaimsWordmap
+sdk: docker
+app_port: 7860
 ---
 
 # React + Vite
